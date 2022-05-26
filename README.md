@@ -1,1 +1,1 @@
-![](Release 2.svg)
+![](Release.svg)
