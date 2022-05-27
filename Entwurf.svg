@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1761.6802mm"
-   height="419.17487mm"
-   viewBox="0 0 1761.6801 419.17487"
+   width="1945.2117mm"
+   height="437.44919mm"
+   viewBox="0 0 1945.2116 437.44919"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   sodipodi:docname="Kliergarten2 Entwurf.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="Entwurf.svg"
    inkscape:export-filename="/home/thomas/Documents/Kliergarten.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -28,9 +28,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:zoom="0.11313709"
-     inkscape:cx="2859.363"
-     inkscape:cy="1330.2446"
+     inkscape:zoom="0.16000001"
+     inkscape:cx="4293.7498"
+     inkscape:cy="809.37496"
      inkscape:window-width="1852"
      inkscape:window-height="1160"
      inkscape:window-x="1748"
@@ -42,7 +42,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:snap-bbox="false"
-     inkscape:snap-grids="true" />
+     inkscape:snap-grids="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <rect
@@ -68,48 +70,31 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(228.70472,-37.065896)">
+     transform="translate(368.60733,-547.56014)">
     <path
-       style="fill:#ffffff;stroke:#1e1f20;stroke-width:1.02889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M -201.81102,180.81588 C 290.51257,-5.853545 980.72065,-13.573626 1506.6857,178.3716 c -2.6401,27.88296 12.8035,54.20401 25.5996,54.95707 l -61.3584,193.5726 c -20.3952,-4.0915 -45.5395,5.43391 -50.7067,28.68373 -384.0419,-118.31266 -970.83034,-179.62857 -1531.93051,-0.68573 -8.106,-15.22886 -20.06849,-35.42814 -50.64569,-26.63158 l -65.72739,-195.42037 c 0,0 34.03951,-19.81186 26.27237,-52.03144 z"
-       id="Outline"
+       vector-effect="non-scaling-stroke"
+       d="m -246.78548,984.40252 c 558.328,-141.7899 1143.24,-141.7899 1701.56798,0 3.372,-12.889 11.75,-23.899 23.273,-30.587 11.524,-6.688 25.24,-8.5 38.105,-5.034 l 59.831,-222.0815 c -26.539,-7.1499 -42.331,-34.3806 -35.356,-60.9665 -614.56898,-156.898 -1258.70498,-156.898 -1873.27398,0 1.087,4.1419 1.637,8.406 1.637,12.6879 0,22.605 -15.166,42.3983 -36.993,48.2786 l 59.831,222.0815 c 12.865,-3.466 26.581,-1.654 38.105,5.034 11.523,6.688 19.901,17.698 23.273,30.587"
+       fill-rule="evenodd"
+       id="path1155"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cccccccscccc" />
+    <path
+       vector-effect="non-scaling-stroke"
+       d="m 1449.831,976.65215 c 10.9394,-27.02807 33.896,-40.59502 61.7352,-35.31033 l 54.6441,-209.95975 c -26.0637,-6.66988 -40.6217,-36.25016 -33.7716,-61.05115 -601.81971,-152.81423 -1249.35624,-151.70859 -1854.68674,1.2045 7.81015,29.34883 -15.53843,54.87738 -35.51342,60.77455 l 56.18574,208.166 c 29.00989,-5.20871 48.86729,9.39113 60.88688,35.04919 C 324.6962,828.72477 908.03772,842.68002 1449.831,976.65215 Z"
+       fill-rule="evenodd"
+       id="path1155-3"
+       style="fill:none;fill-opacity:1;stroke:#172983;stroke-width:4;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:nodetypes="ccccccccc" />
-    <path
-       style="fill:none;stroke:#172983;stroke-width:3.08147;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M -186.19791,193.81418 C 304.58934,3.5451583 976.44259,9.3196833 1491.4683,191.15955 c -2.601,25.93997 12.0819,48.86668 24.6889,49.56727 l -56.6566,172.63834 c -20.0938,-3.8065 -40.7156,5.65859 -45.8065,27.2883 C 945.85579,292.75403 380.96514,283.26488 -102.52199,436.9145 c -7.9862,-14.16759 -15.75904,-30.35093 -46.31453,-24.39117 l -61.00182,-170.09461 c 0,0 28.08669,-13.93161 23.64043,-48.61454 z"
-       id="TrimLine"
-       sodipodi:nodetypes="ccccccccc" />
-    <path
-       style="opacity:0.837576;fill:none;fill-opacity:1;stroke:none;stroke-width:6.01698;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M -149.36488,414.01739 C 370.57921,254.22854 800.53219,216.34669 1459.5506,414.0707"
-       id="Baseline"
-       sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:318.38px;line-height:1.25;font-family:sans-serif;letter-spacing:7.95951px;word-spacing:0px;fill:#172983;fill-opacity:1;stroke:none;stroke-width:6.01698;stroke-miterlimit:4;stroke-dasharray:none"
-       id="Test"><textPath
-         xlink:href="#Baseline"
-         id="textPath11971"
-         style="font-size:318.38px;fill:#172983;fill-opacity:1;stroke-width:6.01698;stroke-miterlimit:4;stroke-dasharray:none"><tspan
-           id="tspan6984"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:318.38px;font-family:'Breitkopf Fraktur';-inkscape-font-specification:'Breitkopf Fraktur';fill:#172983;fill-opacity:1;stroke-width:6.01698;stroke-miterlimit:4;stroke-dasharray:none"
-           dx="199.32001"
-           dy="-10.35">Kliergarten</tspan></textPath></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-228.71466,60.249636)"
-       id="text13798"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect13800);fill:#000000;fill-opacity:1;stroke:none" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-228.71466,60.249636)"
-       id="text14288"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14290);fill:#000000;fill-opacity:1;stroke:none" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-228.71466,60.249636)"
-       id="text15526"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect15528);fill:#000000;fill-opacity:1;stroke:none" />
+       style="font-style:normal;font-weight:normal;font-size:357.222px;line-height:1.25;font-family:sans-serif;letter-spacing:8.93056px;word-spacing:0px;fill:#172983;fill-opacity:1;stroke:none;stroke-width:6.75104;stroke-miterlimit:4;stroke-dasharray:none"
+       id="TextNeu"><textPath
+         xlink:href="#path1155"
+         id="textPath1008"><tspan
+           id="tspan6984-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:357.222px;font-family:'Breitkopf Fraktur';-inkscape-font-specification:'Breitkopf Fraktur';fill:#172983;fill-opacity:1;stroke-width:6.75104;stroke-miterlimit:4;stroke-dasharray:none"
+           dx="175"
+           dy="-74">Kliergarten</tspan></textPath></text>
   </g>
   <style
      type="text/css"
